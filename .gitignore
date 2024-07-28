@@ -32,7 +32,6 @@ build/
 *.out
 *.app
 
-
 # Tools
 .cache/
 .clang-format
